@@ -1,0 +1,377 @@
+{
+  "uae": {
+    "country_name": "United Arab Emirates",
+    "cities": [
+      {
+        "name": "Dubai",
+        "slug": "dubai",
+        "unique_descriptions": {
+          "en": "In Dubai, Antonio Bishik™ ArchEx delivers premium architectural design, 3D visualization, web development and smart technology solutions for residential and commercial projects.",
+          "ar": "في دبي، تقدم Antonio Bishik™ ArchEx خدمات التصميم المعماري الفاخر والتصوير ثلاثي الأبعاد وتطوير الويب وحلول التقنية الذكية للمشاريع السكنية والتجارية.",
+          "tr": "Dubai'de Antonio Bishik™ ArchEx; konut ve ticari projeler için üst düzey mimari tasarım, 3D görselleştirme, web geliştirme ve akıllı teknoloji çözümleri sunar.",
+          "es": "En Dubái, Antonio Bishik™ ArchEx ofrece diseño arquitectónico premium, visualización 3D, desarrollo web y soluciones tecnológicas inteligentes."
+        }
+      },
+      {
+        "name": "Abu Dhabi",
+        "slug": "abu-dhabi"
+      },
+      {
+        "name": "Sharjah",
+        "slug": "sharjah"
+      }
+    ]
+  },
+
+  "turkey": {
+    "country_name": "Turkey",
+    "cities": [
+      {
+        "name": "Istanbul",
+        "slug": "istanbul",
+        "unique_descriptions": {
+          "en": "Antonio Bishik™ ArchEx brings world-class architectural innovation, 3D visualization, digital development and smart home solutions to Istanbul.",
+          "ar": "تقدم Antonio Bishik™ ArchEx الابتكار المعماري العالمي والتصوير ثلاثي الأبعاد والتطوير الرقمي وحلول المنازل الذكية في إسطنبول.",
+          "tr": "Antonio Bishik™ ArchEx, İstanbul'a dünya standartlarında mimari tasarım, 3D görselleştirme, dijital geliştirme ve akıllı ev çözümleri sunar.",
+          "es": "Antonio Bishik™ ArchEx lleva a Estambul innovación arquitectónica, visualización 3D, desarrollo digital y soluciones de hogar inteligente."
+        }
+      },
+      {
+        "name": "Ankara",
+        "slug": "ankara"
+      },
+      {
+        "name": "Izmir",
+        "slug": "izmir"
+      },
+      {
+        "name": "Antalya",
+        "slug": "antalya"
+      },
+      {
+        "name": "Bursa",
+        "slug": "bursa"
+      }
+    ]
+  },
+
+  "jordan": {
+    "country_name": "Jordan",
+    "cities": [
+      {
+        "name": "Amman",
+        "slug": "amman"
+      },
+      {
+        "name": "Aqaba",
+        "slug": "aqaba"
+      }
+    ]
+  },
+
+  "saudi-arabia": {
+    "country_name": "Saudi Arabia",
+    "cities": [
+      {
+        "name": "Riyadh",
+        "slug": "riyadh"
+      },
+      {
+        "name": "Jeddah",
+        "slug": "jeddah"
+      },
+      {
+        "name": "Dammam",
+        "slug": "dammam"
+      },
+      {
+        "name": "Medina",
+        "slug": "medina"
+      },
+      {
+        "name": "Mecca",
+        "slug": "mecca"
+      }
+    ]
+  },
+
+  "qatar": {
+    "country_name": "Qatar",
+    "cities": [
+      {
+        "name": "Doha",
+        "slug": "doha"
+      }
+    ]
+  },
+
+  "kuwait": {
+    "country_name": "Kuwait",
+    "cities": [
+      {
+        "name": "Kuwait City",
+        "slug": "kuwait-city"
+      }
+    ]
+  },
+
+  "bahrain": {
+    "country_name": "Bahrain",
+    "cities": [
+      {
+        "name": "Manama",
+        "slug": "manama"
+      }
+    ]
+  },
+
+  "oman": {
+    "country_name": "Oman",
+    "cities": [
+      {
+        "name": "Muscat",
+        "slug": "muscat"
+      }
+    ]
+  },
+
+  "usa": {
+    "country_name": "United States",
+    "cities": [
+      {
+        "name": "California",
+        "slug": "california",
+        "unique_descriptions": {
+          "en": "From Silicon Valley to Los Angeles, Antonio Bishik™ ArchEx delivers modern architectural design, advanced 3D visualization, web development and technology integration for California clients.",
+          "ar": "من وادي السيليكون إلى لوس أنجلوس، تقدم Antonio Bishik™ ArchEx التصميم المعماري الحديث والتصوير ثلاثي الأبعاد والتطوير الرقمي والتكامل التقني لعملاء كاليفورنيا.",
+          "tr": "Silikon Vadisi'nden Los Angeles'a kadar Antonio Bishik™ ArchEx, Kaliforniya müşterileri için modern mimari tasarım, 3D görselleştirme, web geliştirme ve teknoloji entegrasyonu sunar.",
+          "es": "Desde Silicon Valley hasta Los Ángeles, Antonio Bishik™ ArchEx ofrece diseño arquitectónico moderno, visualización 3D, desarrollo web e integración tecnológica."
+        }
+      },
+      {
+        "name": "New York",
+        "slug": "new-york"
+      },
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles"
+      },
+      {
+        "name": "Miami",
+        "slug": "miami"
+      },
+      {
+        "name": "Texas",
+        "slug": "texas"
+      },
+      {
+        "name": "New Jersey",
+        "slug": "new-jersey"
+      },
+      {
+        "name": "Chicago",
+        "slug": "chicago"
+      },
+      {
+        "name": "Seattle",
+        "slug": "seattle"
+      },
+      {
+        "name": "Boston",
+        "slug": "boston"
+      },
+      {
+        "name": "Washington DC",
+        "slug": "washington-dc"
+      }
+    ]
+  },
+
+  "canada": {
+    "country_name": "Canada",
+    "cities": [
+      {
+        "name": "Toronto",
+        "slug": "toronto"
+      },
+      {
+        "name": "Vancouver",
+        "slug": "vancouver"
+      },
+      {
+        "name": "Montreal",
+        "slug": "montreal"
+      },
+      {
+        "name": "Calgary",
+        "slug": "calgary"
+      }
+    ]
+  },
+
+  "uk": {
+    "country_name": "United Kingdom",
+    "cities": [
+      {
+        "name": "London",
+        "slug": "london"
+      },
+      {
+        "name": "Manchester",
+        "slug": "manchester"
+      },
+      {
+        "name": "Birmingham",
+        "slug": "birmingham"
+      }
+    ]
+  },
+
+  "france": {
+    "country_name": "France",
+    "cities": [
+      {
+        "name": "Paris",
+        "slug": "paris"
+      },
+      {
+        "name": "Lyon",
+        "slug": "lyon"
+      },
+      {
+        "name": "Marseille",
+        "slug": "marseille"
+      }
+    ]
+  },
+
+  "germany": {
+    "country_name": "Germany",
+    "cities": [
+      {
+        "name": "Berlin",
+        "slug": "berlin"
+      },
+      {
+        "name": "Munich",
+        "slug": "munich"
+      },
+      {
+        "name": "Frankfurt",
+        "slug": "frankfurt"
+      }
+    ]
+  },
+
+  "spain": {
+    "country_name": "Spain",
+    "cities": [
+      {
+        "name": "Madrid",
+        "slug": "madrid"
+      },
+      {
+        "name": "Barcelona",
+        "slug": "barcelona"
+      },
+      {
+        "name": "Valencia",
+        "slug": "valencia"
+      }
+    ]
+  },
+
+  "italy": {
+    "country_name": "Italy",
+    "cities": [
+      {
+        "name": "Milan",
+        "slug": "milan"
+      },
+      {
+        "name": "Rome",
+        "slug": "rome"
+      }
+    ]
+  },
+
+  "netherlands": {
+    "country_name": "Netherlands",
+    "cities": [
+      {
+        "name": "Amsterdam",
+        "slug": "amsterdam"
+      },
+      {
+        "name": "Rotterdam",
+        "slug": "rotterdam"
+      }
+    ]
+  },
+
+  "switzerland": {
+    "country_name": "Switzerland",
+    "cities": [
+      {
+        "name": "Zurich",
+        "slug": "zurich"
+      },
+      {
+        "name": "Geneva",
+        "slug": "geneva"
+      }
+    ]
+  },
+
+  "australia": {
+    "country_name": "Australia",
+    "cities": [
+      {
+        "name": "Sydney",
+        "slug": "sydney"
+      },
+      {
+        "name": "Melbourne",
+        "slug": "melbourne"
+      },
+      {
+        "name": "Brisbane",
+        "slug": "brisbane"
+      }
+    ]
+  },
+
+  "singapore": {
+    "country_name": "Singapore",
+    "cities": [
+      {
+        "name": "Singapore",
+        "slug": "singapore"
+      }
+    ]
+  },
+
+  "malaysia": {
+    "country_name": "Malaysia",
+    "cities": [
+      {
+        "name": "Kuala Lumpur",
+        "slug": "kuala-lumpur"
+      }
+    ]
+  },
+
+  "japan": {
+    "country_name": "Japan",
+    "cities": [
+      {
+        "name": "Tokyo",
+        "slug": "tokyo"
+      },
+      {
+        "name": "Osaka",
+        "slug": "osaka"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "en": {
+    "meta_title": "Antonio Bishik™ ArchEx | Architecture, 3D & Technology in {{CITY}}",
+    "meta_desc": "Antonio Bishik™ ArchEx provides architectural design, 3D visualization, web development and smart home solutions for clients in {{CITY}}, {{COUNTRY}} and worldwide.",
+    "hero_title_1": "Building The Future",
+    "hero_title_2": "Brick by Byte in {{CITY}}",
+    "location_heading": "Architecture & Technology Services in {{CITY}}",
+    "location_text": "Antonio Bishik™ ArchEx delivers professional architectural design, 3D visualization, digital development and smart technology solutions for clients in {{CITY}}, {{COUNTRY}} and international markets.",
+    "services_heading": "Our Services in {{CITY}}",
+    "cta": "Start Your Project",
+    "keywords": "architecture in {{CITY}}, architectural design {{CITY}}, 3D rendering {{CITY}}, interior design {{CITY}}, web development {{CITY}}, smart home {{CITY}}, architectural visualization {{CITY}}"
+  },
+  "ar": {
+    "meta_title": "Antonio Bishik™ ArchEx | التصميم المعماري والتقنية في {{CITY}}",
+    "meta_desc": "تقدم Antonio Bishik™ ArchEx خدمات التصميم المعماري والتصوير ثلاثي الأبعاد وتطوير الويب وحلول المنازل الذكية في {{CITY}}، {{COUNTRY}} وحول العالم.",
+    "hero_title_1": "نبني المستقبل",
+    "hero_title_2": "لبنةً ورمزاً في {{CITY}}",
+    "location_heading": "خدمات العمارة والتقنية في {{CITY}}",
+    "location_text": "تقدم Antonio Bishik™ ArchEx خدمات احترافية في التصميم المعماري والتصوير ثلاثي الأبعاد والتطوير الرقمي وتقنيات المنازل الذكية للعملاء في {{CITY}}، {{COUNTRY}} والأسواق العالمية.",
+    "services_heading": "خدماتنا في {{CITY}}",
+    "cta": "ابدأ مشروعك",
+    "keywords": "هندسة معمارية في {{CITY}}، تصميم معماري {{CITY}}، رندر ثلاثي الأبعاد {{CITY}}، تصميم داخلي {{CITY}}، تطوير مواقع {{CITY}}، منزل ذكي {{CITY}}"
+  },
+  "tr": {
+    "meta_title": "Antonio Bishik™ ArchEx | {{CITY}} Mimari Tasarım ve Teknoloji",
+    "meta_desc": "Antonio Bishik™ ArchEx, {{CITY}}, {{COUNTRY}} ve dünya çapındaki müşteriler için mimari tasarım, 3D görselleştirme, web geliştirme ve akıllı ev çözümleri sunar.",
+    "hero_title_1": "Geleceği İnşa Ediyoruz",
+    "hero_title_2": "{{CITY}}'da Adım Adım",
+    "location_heading": "{{CITY}} Mimari ve Teknoloji Hizmetleri",
+    "location_text": "Antonio Bishik™ ArchEx; {{CITY}}, {{COUNTRY}} ve uluslararası pazarlardaki müşteriler için mimari tasarım, 3D görselleştirme, dijital geliştirme ve akıllı teknoloji çözümleri sunar.",
+    "services_heading": "{{CITY}} Hizmetlerimiz",
+    "cta": "Projenizi Başlatın",
+    "keywords": "{{CITY}} mimari, {{CITY}} mimari tasarım, {{CITY}} 3D render, {{CITY}} iç mimarlık, {{CITY}} web geliştirme, {{CITY}} akıllı ev"
+  },
+  "es": {
+    "meta_title": "Antonio Bishik™ ArchEx | Arquitectura, 3D y Tecnología en {{CITY}}",
+    "meta_desc": "Antonio Bishik™ ArchEx ofrece diseño arquitectónico, visualización 3D, desarrollo web y soluciones de hogar inteligente en {{CITY}}, {{COUNTRY}} y mercados internacionales.",
+    "hero_title_1": "Construyendo el Futuro",
+    "hero_title_2": "Paso a Paso en {{CITY}}",
+    "location_heading": "Servicios de Arquitectura y Tecnología en {{CITY}}",
+    "location_text": "Antonio Bishik™ ArchEx ofrece servicios profesionales de diseño arquitectónico, visualización 3D, desarrollo digital y tecnología inteligente para clientes en {{CITY}}, {{COUNTRY}} y mercados internacionales.",
+    "services_heading": "Nuestros Servicios en {{CITY}}",
+    "cta": "Iniciar Proyecto",
+    "keywords": "arquitectura en {{CITY}}, diseño arquitectónico {{CITY}}, render 3D {{CITY}}, diseño de interiores {{CITY}}, desarrollo web {{CITY}}, hogar inteligente {{CITY}}"
+  }
+}

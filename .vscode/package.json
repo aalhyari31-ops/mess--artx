@@ -1,0 +1,38 @@
+{
+  "name": "antonio-bishik-global",
+  "version": "2.0.0",
+  "description": "Antonio Bishik™ ArchEx - Global Architecture, 3D Visualization, Web Development and Smart Home Services",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "sitemap": "node scripts/generate-sitemap.js",
+    "seo": "node scripts/build.js",
+    "test": "echo \"No tests configured\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalhyari31-ops/mess--artx.git"
+  },
+  "keywords": [
+    "architecture",
+    "architectural design",
+    "3d visualization",
+    "3d rendering",
+    "interior design",
+    "smart home",
+    "web development",
+    "global architecture",
+    "Antonio Bishik",
+    "ArchEx"
+  ],
+  "author": "Antonio Bishik™",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aalhyari31-ops/mess--artx/issues"
+  },
+  "homepage": "https://antoniobishik.com",
+  "devDependencies": {
+    "tailwindcss": "^4.3.3"
+  }
+}

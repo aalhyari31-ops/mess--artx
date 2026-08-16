@@ -1,0 +1,38 @@
+[
+  {
+    "id": "architecture",
+    "slug": "architectural-design",
+    "name": "Architectural Design",
+    "icon": "fa-building",
+    "short_desc": "Comprehensive design solutions merging aesthetics with high-performance functionality.",
+    "schema_type": "Service",
+    "keywords": ["Luxury Architecture", "Structural Engineering", "Blueprint Design", "Antonio Bishik ArchEx"]
+  },
+  {
+    "id": "3d-visualization",
+    "slug": "3d-rendering",
+    "name": "3D Visualization",
+    "icon": "fa-cube",
+    "short_desc": "Hyper-realistic visuals and renders bringing your unbuilt concepts to life.",
+    "schema_type": "Service",
+    "keywords": ["3D Rendering", "VR Walkthrough", "Cinematic Animations", "Architectural Visualization"]
+  },
+  {
+    "id": "web-development",
+    "slug": "web-development",
+    "name": "Web Development",
+    "icon": "fa-laptop-code",
+    "short_desc": "Custom, high-end business websites, apps, and robust digital solutions.",
+    "schema_type": "Service",
+    "keywords": ["Full-Stack Development", "Corporate Web Portal", "High-End Websites", "Custom Web Apps"]
+  },
+  {
+    "id": "smart-home",
+    "slug": "smart-home-automation",
+    "name": "Smart Home",
+    "icon": "fa-home",
+    "short_desc": "Integration of cutting-edge IoT technology for modern, connected living.",
+    "schema_type": "Service",
+    "keywords": ["IoT Technology", "Smart Lighting", "Automated Penthouses", "Security Integration"]
+  }
+]
