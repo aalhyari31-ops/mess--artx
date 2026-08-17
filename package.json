@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests configured\"",
+    "build": "node scripts/build.js && node scripts/performance.js",
+    "seo": "node scripts/build.js && node scripts/performance.js"
   },
   "repository": {
     "type": "git",
