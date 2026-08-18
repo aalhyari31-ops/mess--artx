@@ -1,12 +1,12 @@
 {
   "name": "antonio-bishik-global",
   "version": "1.0.0",
-  "description": "",
+  "description": "Antonio Bishik Global Architecture, 3D, Web Development and Smart Technology",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests configured\"",
-    "build": "node scripts/build.js && node scripts/performance.js",
-    "seo": "node scripts/build.js && node scripts/performance.js"
+    "test": "node scripts/seo-check.js",
+    "build": "node scripts/build.js && node scripts/performance.js && node scripts/seo-check.js",
+    "seo": "node scripts/build.js && node scripts/performance.js && node scripts/seo-check.js"
   },
   "repository": {
     "type": "git",
